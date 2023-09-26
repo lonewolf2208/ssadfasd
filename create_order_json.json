@@ -5,5 +5,6 @@
 "hint2":"Amount",
 "Currency":"UGX" ,
 "starting_code":"+256",
-  "button_text":"Proceed"
+  "button_text":"Proceed",
+  "icon_url":""
 }
