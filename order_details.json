@@ -1,1 +1,10 @@
-
+{
+  "heading":"Order Details",
+  "title":"TRANSACTION DETAILS",
+  "transaction_id":"Transaction ID",
+  "date":"date",
+  "paid_via":"Paid Via",
+  "Shop":"Shop",
+  "Employee":"Employee",
+  "Amount":"Amount"
+}
