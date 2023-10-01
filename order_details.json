@@ -6,5 +6,6 @@
   "paid_via":"Paid Via",
   "Shop":"Shop",
   "Employee":"Employee",
-  "Amount":"Amount"
+  "Amount":"Amount",
+  "button_text":"Create New Order"
 }
