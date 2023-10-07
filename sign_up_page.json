@@ -3,5 +3,16 @@
   "sub_heading10":"Enter PIN",
   "sub_heading11":"Confirm PIN",
   "heading2":"SECRET QUESTIONS",
-  "hint21":"Select Questions"
+  "hint21":"Select Questions",
+  "dialog_box_1": {
+    "heading" : "Confirm SIM",
+    "option_1" : "Change SIM",
+    "option_2":"Proceed",
+    "content1":"You have selected ",
+    "content2":"Do you want to proceed"
+  } ,
+  "dialog_box_2":{
+    "heading":"Verify Mobile Number",
+    "subheadings": {"Verification Initiated", "SMS sent from your mobile ","Verification Completed" }
+  }
 }
