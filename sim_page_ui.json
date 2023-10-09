@@ -1,19 +1,19 @@
 {
-  "heading1":"Verify Mobile Number",
-  "content1":"We need to send an sms from your phone to verify and register Your mobile number on nxtduka.",
-  "sub_heading1":"Please select SIM registered with your bank & Ensure your mobile data is enabled",
-  "sun_heading2":"By selecting a SIM I agree to the Terms and Conditions. Regular carrier charges may apply.",
-    "dialog_box_1": {
-    "heading" : "Confirm SIM",
-    "option_1" : "Change SIM",
-    "option_2":"Proceed",
-    "content1":"You have selected ",
-    "content2":"Do you want to proceed ?"
-  } ,
-  "dialog_box_2":{
-    "heading":"Verify Mobile Number",
-    "subheadings": {"Verification Initiated", "SMS sent from your mobile ","Verification Completed" },
-    "subheadings_fail":{"Verification Failed"},
-    "fail_content":"Note: Mobile network not available you may try again or try later  "
+  "heading1": "Verify Mobile Number",
+  "content1": "We need to send an SMS from your phone to verify and register your mobile number on nxtduka.",
+  "sub_heading1": "Please select the SIM registered with your bank & ensure your mobile data is enabled",
+  "sub_heading2": "By selecting a SIM, I agree to the Terms and Conditions. Regular carrier charges may apply.",
+  "dialog_box_1": {
+    "heading": "Confirm SIM",
+    "option_1": "Change SIM",
+    "option_2": "Proceed",
+    "content1": "You have selected",
+    "content2": "Do you want to proceed?"
+  },
+  "dialog_box_2": {
+    "heading": "Verify Mobile Number",
+    "subheadings": ["Verification Initiated", "SMS sent from your mobile", "Verification Completed"],
+    "subheadings_fail": ["Verification Failed"],
+    "fail_content": "Note: Mobile network not available. You may try again or try later."
   }
 }
