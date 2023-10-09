@@ -3,4 +3,15 @@
   "content1":"We need to send an sms from your phone to verify and register Your mobile number on nxtduka.",
   "sub_heading1":"Please select SIM registered with your bank & Ensure your mobile data is enabled",
   "sun_heading2":"By selecting a SIM I agree to the Terms and Conditions. Regular carrier charges may apply."
+    "dialog_box_1": {
+    "heading" : "Confirm SIM",
+    "option_1" : "Change SIM",
+    "option_2":"Proceed",
+    "content1":"You have selected ",
+    "content2":"Do you want to proceed"
+  } ,
+  "dialog_box_2":{
+    "heading":"Verify Mobile Number",
+    "subheadings": {"Verification Initiated", "SMS sent from your mobile ","Verification Completed" }
+  }
 }
