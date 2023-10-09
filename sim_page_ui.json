@@ -8,7 +8,7 @@
     "option_1" : "Change SIM",
     "option_2":"Proceed",
     "content1":"You have selected ",
-    "content2":"Do you want to proceed"
+    "content2":"Do you want to proceed ?"
   } ,
   "dialog_box_2":{
     "heading":"Verify Mobile Number",
