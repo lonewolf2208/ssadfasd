@@ -3,5 +3,6 @@
   "ans_secret_sub_heading":"Back to Login",
   "resetPinHeading":"ENTER NEW PIN",
   "resetPinsubHeading0":"Enter PIN",
-  "resetPinsubHeading1":"Confirm PIN"
+  "resetPinsubHeading1":"Confirm PIN",
+  "button_text":"Proceed"
 }
