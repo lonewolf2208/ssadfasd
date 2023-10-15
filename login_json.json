@@ -1,6 +1,7 @@
 {
-"heading1":"Enter Pin",
+"heading1":"Enter Login Pin",
 "hint_text":"Agent Mobile Number",
+  "sub_heading":"Enter Pin",
 "heading2": "Forgot Pin",
 "heading_img":"",
 "content_img":""
