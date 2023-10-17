@@ -3,7 +3,7 @@
   "button_text":"Proceed",
   "currency":"UGX",
   "amount":"Amount",
-  "hint0":"",
+  "hint0":"Enter item code",
   "scan_icon_url":"",
   "cancel_icon":""
 }
