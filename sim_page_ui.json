@@ -15,5 +15,6 @@
     "subheadings": ["Verification Initiated", "SMS sent from your mobile", "Verification Completed"],
     "subheadings_fail": ["Verification Failed"],
     "fail_content": "Note: Mobile network not available. You may try again or try later."
-  }
+  },
+  "img_url":"https://i.ibb.co/Y0HhTFV/gsm-sim-card.png"
 }
