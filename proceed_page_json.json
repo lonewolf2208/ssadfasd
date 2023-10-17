@@ -2,5 +2,8 @@
   "heading":"Create Order",
   "button_text":"Proceed",
   "currency":"UGX",
-  "amount":"Amount"
+  "amount":"Amount",
+  "hint0":"",
+  "scan_icon_url":"",
+  "cancel_icon":""
 }
