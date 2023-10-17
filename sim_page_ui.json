@@ -8,7 +8,8 @@
     "option_1": "Change SIM",
     "option_2": "Proceed",
     "content1": "You have selected",
-    "content2": "Do you want to proceed?"
+    "content2": "Do you want to proceed?",
+    "sim_icon":"https://i.ibb.co/3YWnHbj/8542437-sim-card-icon.png"
   },
   "dialog_box_2": {
     "heading": "Verify Mobile Number",
