@@ -1,0 +1,14 @@
+{
+  "title_1" : "Order Details",
+  "mobile_text":"Mobile Number",
+  "title_2 ":"Payment Options",
+  "button_text":"Proceed",
+  "mobile_money_icon":"",
+  "pay_later_icon":"",
+  "bank_account_icon":"",
+  "cash_icon":"",
+  "mobile_money":"Mobile Money",
+  "paylater":"Paylater",
+  "bank_account":"Back Account",
+  "cash":"Cash"
+}
