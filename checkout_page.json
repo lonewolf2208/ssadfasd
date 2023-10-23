@@ -10,5 +10,10 @@
   "mobile_money":"Mobile Money",
   "paylater":"Paylater",
   "bank_account":"Back Account",
-  "cash":"Cash"
+  "cash":"Cash",
+  "mobile_money_dialog":{
+    "otp_message":"OTP not received ?"
+    "send_again":"Send Again",
+    "hint_text":"Enter OTP"
+  }
 }
