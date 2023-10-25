@@ -7,5 +7,6 @@
   "Shop":"Shop",
   "Employee":"Employee",
   "Amount":"Amount",
+  "product":"Product",
   "button_text":"Create New Order"
 }
