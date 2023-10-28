@@ -2,9 +2,9 @@
   "heading": "All Orders",
   "title":"Payment Modes",
   "filter_icon":"https://i.ibb.co/gSF1dgL/Icon-feather-filter.png",
-  "today":"today",
-  "week":"week",
-  "month":"month",
+  "today":"Today",
+  "week":"Week",
+  "month":"Month",
   "total_sales":"Total Sales",
   "total_orders":"Total Orders",
   "hint":"Search Mobile Number"
