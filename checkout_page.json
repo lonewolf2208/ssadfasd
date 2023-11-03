@@ -12,8 +12,8 @@
   "bank_account":"Back Account",
   "cash":"Cash",
   "mobile_money_dialog":{
-    "otp_message":"OTP not received ?",
+    "otp_message":"Code not received ?",
     "send_again":"Send Again",
-    "hint_text":"Enter OTP"
+    "hint_text":"Enter Code"
   }
 }
