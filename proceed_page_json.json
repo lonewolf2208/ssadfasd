@@ -4,6 +4,6 @@
   "currency":"UGX",
   "amount":"Amount",
   "hint0":"Enter item code",
-  "scan_icon_url":"https://www.nxt.pe/duka-app/assets/qr_code_icon.svg",
-  "cancel_icon":"https://www.nxt.pe/duka-app/assets/cancel-icon.svg"
+  "scan_icon_url":"https://www.nxt.pe/duka-app/assets/qr_code_icon.png",
+  "cancel_icon":"https://www.nxt.pe/duka-app/assets/cancel-icon.png"
 }
