@@ -9,7 +9,7 @@
     "option_2": "Proceed",
     "content1": "You have selected",
     "content2": "Do you want to proceed?",
-    "sim_icon":"https://www.nxt.pe/duka-app/assets/sim-card-icon.png"
+    "sim_icon":"https://www.nxt.pe/duka-app/assets/sim_card_icon.png"
   },
   "dialog_box_2": {
     "heading": "Verify Mobile Number",
@@ -19,5 +19,5 @@
     "img_url":"https://www.nxt.pe/duka-app/assets/sms-icon.png"
   },
   "img_url":"https://www.nxt.pe/duka-app/assets/gsm-sim-card.png",
-  "sim_icon":"https://www.nxt.pe/duka-app/assets/sim-card-icon.png"
+  "sim_icon":"https://www.nxt.pe/duka-app/assets/sim_card_icon.png"
 }
