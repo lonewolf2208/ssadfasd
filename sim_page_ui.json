@@ -16,7 +16,7 @@
     "subheadings": ["Verification Initiated", "SMS sent from your mobile", "Verification Completed"],
     "subheadings_fail": ["Verification Failed"],
     "fail_content": "Note: Mobile network not available. You may try again or try later.",
-    "img_url":"https://www.nxt.pe/duka-app/assets/sms-icon.png"
+    "img_url":"https://www.nxt.pe/duka-app/assets/sms_icon.png"
   },
   "img_url":"https://www.nxt.pe/duka-app/assets/gsm-sim-card.png",
   "sim_icon":"https://www.nxt.pe/duka-app/assets/sim_card_icon.png"
